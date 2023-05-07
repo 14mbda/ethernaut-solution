@@ -1,0 +1,3 @@
+[submodule "packages/ethernaut"]
+	path = packages/ethernaut
+	url = git@github.com:OpenZeppelin/ethernaut.git
